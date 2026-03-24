@@ -26,16 +26,5 @@ Thumbs.db
 # Jupyter
 .ipynb_checkpoints/
 
-# Models (large files)
-*.pkl
-*.pickle
-*.h5
-*.pt
-*.pth
-
-# Data
-*.csv
-*.xlsx
-
 # Logs
 *.log
