@@ -28,3 +28,7 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Large model files (exceed GitHub 100MB limit)
+DiaForecaster/saved_models/ensemble_model.pkl
+DiaForecaster/saved_models/rf_model.pkl
